@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "لوحات التحكم",
+      "icon": "menu-icon tf-icons bx bx-home-smile",
+      "slug": "dashboard"
+    },
+    {
+      "url": "/orders",
+      "name": "جميع الطلبات",
+      "icon": "menu-icon tf-icons bx bx-home-smile",
+      "slug": "orders"
+    },
+    {
+      "url": "/orders/create",
+      "name": "إنشاء طلب",
+      "icon": "menu-icon tf-icons bx bx-food-menu",
+      "slug": "create-order"
+    },
+    {
+      "url": "/customers",
+      "name": "العملاء",
+      "icon": "menu-icon tf-icons bx bx-user",
+      "slug": "customers"
+    },
+    {
+      "url": "/menus",
+      "name": "القائمة",
+      "icon": "menu-icon tf-icons bx bx-list-ul",
+      "slug": "menu"
+    }
+  ]
+}
